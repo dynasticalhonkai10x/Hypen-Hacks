@@ -1,0 +1,38 @@
+{
+    "Safe (0 to 12.0 ug/m3)": [
+        "Maintain Proper Tire Pressure: Keep vehicle tires inflated to minimize road dust and particulate friction.",
+        "Use Electric Lawn Equipment: Switch to battery-powered mowers and leaf blowers to prevent small-engine soot.",
+        "Keep Home Clean: Regularly vacuum with a HEPA filter vacuum to capture settled indoor dust particles.",
+        "Service Heating Systems: Inspect home furnaces annually to ensure clean and complete fuel combustion.",
+        "Choose Active Transit: Walk or bike for short trips to reduce tire and brake wear emissions.",
+        "Plant Dense Greenery: Grow thick hedges or trees near property lines to act as natural dust and particle filters.",
+        "Seal Windows and Doors: Prevent outdoor road dust and fine particles from drifting indoors.",
+        "Organize Street Sweeping Drives: Coordinate community campaigns to clear accumulated street soot and brake dust.",
+        "Support Controlled Burns Management: Participate in local forestry brush-clearing to prevent catastrophic wildfire smoke.",
+        "Establish Clean Construction Rules: Advocate for local building regulations requiring dust suppression on job sites."
+    ],
+    "Moderate (12.1 to 35.4 ug/m3)": [
+        "Upgrade HVAC Filters: Install MERV 11 or higher filters in home heating and cooling systems.",
+        "Avoid Wood Burning: Refrain from using indoor fireplaces or backyard fire pits during moderate haze days.",
+        "Combine Daily Errands: Group multiple driving trips into a single loop to reduce cold-start particulate exhaust.",
+        "Wipe Down Surfaces: Clean window sills and hard floors with damp cloths instead of dry sweeping.",
+        "Limit Dust-Heavy Chores: Postpone sweeping driveways or handling dry garden soil on calm, stagnant days.",
+        "Check Air Quality Monitors: Review local particulate forecasts before planning outdoor physical activities.",
+        "Drive Smoother: Avoid rapid acceleration and hard braking to minimize brake pad wear particles.",
+        "Promote Public Transit Challenges: Organize workplace or school carpooling initiatives to cut traffic volume.",
+        "Run Community Dust Alerts: Set up neighborhood networks to share warnings about local construction or smoke events.",
+        "Advocate for Paved Roads: Work with local authorities to pave or treat unpaved local roads prone to dust."
+    ],
+    "Dangerous (35.5+ ug/m3)": [
+        "Run HEPA Air Purifiers: Operate high-efficiency air purifiers continuously inside primary living areas.",
+        "Seal Home Openings: Keep all windows and doors tightly closed to block heavy smoke or particulate infiltration.",
+        "Wear N95 Respirators: Use a certified N95 or P100 mask if going outside during high particulate events.",
+        "Postpone Outdoor Exertion: Shift all physical exercise and heavy labor indoors to avoid deep lung inhalation.",
+        "Set Vehicle to Recirculate: Use cabin air recirculation when driving through heavy smoke or smog zones.",
+        "Avoid Indoor Combustion: Do not burn candles, incense, or use gas stoves without exhaust fans.",
+        "Stay Indoors: Limit non-essential outdoor movement until air particulate levels subside.",
+        "Set Up Community Clean Air Shelters: Open public indoor spaces equipped with industrial air filtration for residents.",
+        "Distribute Emergency Masks: Partner with local groups to provide N95 masks to vulnerable populations.",
+        "Coordinate Emergency Remote Work: Partner with employers and schools to trigger temporary work-from-home rules."
+    ]
+    }

@@ -1,0 +1,35 @@
+{
+  "Heat": [
+    "Water Gardens at Dawn: Water community garden beds before 9 am so less is lost to evaporation.",
+    "Check on Neighbors: Look in on older neighbors and anyone without a cool place to rest.",
+    "Plant Shade Trees: Join a street-tree planting so sidewalks stay cooler on future hot days.",
+    "Skip Midday Driving: Combine errands and travel early or late to cut heat-trapping emissions."
+  ],
+  "Cold": [
+    "Cover Tender Seedlings: Put frost cloth or row covers over garden beds overnight.",
+    "Seal Drafts at Home: Weatherstrip doors and windows to cut heating energy use.",
+    "Share Warm Clothing: Donate coats and blankets to a local shelter or clothing drive."
+  ],
+  "Windy": [
+    "Secure Garden Structures: Tie down row covers, trellises and compost bin lids before gusts.",
+    "Avoid Outdoor Burning: Wind carries smoke and embers, so skip fire pits and yard burning.",
+    "Plant Windbreak Hedges: Native shrubs along exposed edges protect beds and keep soil in place.",
+    "Mulch Bare Soil: Cover exposed garden soil so wind doesn't blow away topsoil and dust."
+  ],
+  "Rain": [
+    "Set Out Rain Barrels: Capture roof runoff to water gardens during the dry months.",
+    "Clear Storm Drains: Remove leaves from the drains on your block to prevent street flooding.",
+    "Pause Irrigation: Turn off sprinkler timers until the soil dries out."
+  ],
+  "Fog or mist": [
+    "Collect Fog Drip: Leave buckets under trees and eaves to catch fog drip for nearby beds.",
+    "Plant Coastal Natives: Native plants adapted to San Francisco fog need little watering once established.",
+    "Walk or Take Muni: Leave the car at home in low visibility to cut emissions and stay safe."
+  ],
+  "Clear and mild": [
+    "Volunteer at a Community Garden: Mild, dry weather is ideal for planting, weeding and turning compost.",
+    "Walk or Bike Your Errands: Leave the car at home and cut local traffic emissions.",
+    "Dry Laundry Outdoors: Skip the dryer and save energy on a sunny day.",
+    "Plant Pollinator Natives: Add native flowers to a garden bed or balcony to support bees and butterflies."
+  ]
+}

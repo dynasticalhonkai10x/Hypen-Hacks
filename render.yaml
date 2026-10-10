@@ -1,0 +1,19 @@
+# Render Blueprint: one free web service runs the FastAPI backend and serves the site.
+# Render asks for the two `sync: false` keys when you create the Blueprint; they never live in the repo.
+services:
+  - type: web
+    name: earthstars
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    autoDeploy: true
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.10
+      - key: PYTHONUNBUFFERED
+        value: "1"
+      - key: OPENWEATHER_API_KEY
+        sync: false
+      - key: WAQI_TOKEN
+        sync: false

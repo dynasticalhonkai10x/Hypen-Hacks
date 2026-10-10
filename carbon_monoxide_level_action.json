@@ -1,0 +1,38 @@
+{
+    "Safe (0 to 4.4 ppm)": [
+        "Service Home Heaters Annually: Inspect furnaces, water heaters, and gas appliances to ensure safe operation.",
+        "Test CO Detectors Monthly: Check batteries and functionality of carbon monoxide alarms on every home level.",
+        "Maintain Vehicle Exhaust Systems: Ensure mufflers and tailpipes are free of rust holes or leaks.",
+        "Ventilate Workshops Properly: Always use adequate exhaust fans when operating combustion tools in garages.",
+        "Inspect Chimneys Regularly: Keep flues clear of soot or bird nests before lighting any wood fires.",
+        "Use Electric Appliances Where Possible: Opt for electric or induction stoves to eliminate combustion risks.",
+        "Store Fuel Safely: Keep gasoline and propane tanks stored in detached sheds away from living quarters.",
+        "Organize Community Safety Audits: Help elderly neighbors inspect their home heating and CO alarm systems.",
+        "Promote Fire Safety Education: Partner with local fire departments to distribute home safety guidelines.",
+        "Advocate for Building Safety Codes: Support strict municipal inspection requirements for multi-family rental housing."
+    ],
+    "Moderate (4.5 to 9.4 ppm)": [
+        "Check Appliance Ventilation: Verify that gas stove vents and furnace flues are drawing exhaust properly.",
+        "Never Idle in Confined Spaces: Avoid letting vehicle engines run inside attached garages even for a moment.",
+        "Increase Indoor Ventilation: Open windows periodically when using gas-powered equipment or heaters.",
+        "Monitor Fuel-Burning Equipment: Inspect portable generators or space heaters for signs of incomplete combustion.",
+        "Limit Heavy Traffic Exposure: Avoid exercising directly alongside heavy traffic corridors during rush hours.",
+        "Inspect Fireplace Dampers: Ensure fireplace flues are fully open before burning any wood or solid fuel.",
+        "Test Alarm Sensor Levels: Verify that carbon monoxide detectors are active and sensitive to low-level rises.",
+        "Coordinate Neighborhood Awareness Drives: Inform residents about the risks of portable generator placement during storms.",
+        "Offer Free Detector Checks: Partner with local community groups to supply fresh batteries for carbon monoxide alarms.",
+        "Establish Vehicle Inspection Checkpoints: Support local campaigns offering free tailpipe emissions testing."
+    ],
+    "Dangerous (9.5+ ppm)": [
+        "Evacuate Immediately If Alarms Sound: Leave the building instantly and call emergency services if CO alarms trigger.",
+        "Shut Off Fuel Sources Safely: Turn off gas valves or extinguish fuel appliances if safe to do so before evacuating.",
+        "Seek Fresh Air Instantly: Move anyone experiencing dizziness or headaches to an outdoor open-air environment.",
+        "Never Use Charcoal Indoors: Avoid bringing grills, hibachis, or camp stoves inside homes, tents, or garages.",
+        "Do Not Heat Homes with Ovens: Never use gas kitchen ranges or ovens to heat living spaces.",
+        "Keep Generators Outdoors: Operate portable gas generators at least 20 feet away from windows and doors.",
+        "Avoid Congested Traffic Tunnels: Refrain from walking or driving through poorly ventilated underground structures.",
+        "Deploy Emergency Response Teams: Coordinate local emergency services to inspect buildings with elevated CO readings.",
+        "Issue Public Safety Broadcasts: Work with local authorities to broadcast urgent shelter and evacuation warnings.",
+        "Provide Emergency Medical Support: Organize community medical response stations for individuals affected by toxic exposure."
+    ]
+}

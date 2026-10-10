@@ -1,0 +1,38 @@
+{
+    "Safe (0 to 54 ppb)": [
+        "Conduct Routine Vehicle Maintenance: Keep engine tunes optimized to reduce chemical exhaust precursors.",
+        "Use Low-VOC Household Cleaners: Choose water-based, low-emission cleaning products year-round.",
+        "Plant Native Shade Trees: Grow leafy trees to cool urban microclimates and reduce photochemical smog formation.",
+        "Transition to Electric Yard Tools: Avoid gas-powered equipment that emits unburned hydrocarbons.",
+        "Optimize Home Energy Use: Reduce power demand to lower fossil-fuel power plant precursor emissions.",
+        "Keep Gas Containers Sealed: Ensure gasoline cans and lawn chemical containers are tightly sealed to prevent vapor leaks.",
+        "Inspect Vehicle Emission Systems: Ensure catalytic converters and oxygen sensors are working properly.",
+        "Organize Community Tree Plantings: Expand neighborhood urban canopy coverage to lower local air temperatures.",
+        "Establish Green Office Policies: Promote energy conservation and reduced chemical usage across local businesses.",
+        "Support Public Transit Expansion: Advocate for electric bus fleets and expanded light rail networks."
+    ],
+    "Moderate (55 to 70 ppb)": [
+        "Refuel Cars After Sunset: Pump gas in the evening to prevent daytime heat from cooking fuel vapors into ozone.",
+        "Reschedule Outdoor Chores: Move painting, varnishing, or heavy lawn mowing to cooler evening hours.",
+        "Limit Midday Driving: Combine errands or use public transit during hot, sunny afternoon peak hours.",
+        "Conserve Peak Electricity: Turn up air conditioning slightly during peak summer afternoons to reduce power plant strain.",
+        "Avoid Solvent Use: Postpone using oil-based paints, thinners, or chemical solvents on warm sunny days.",
+        "Park in the Shade: Reduce fuel evaporation from vehicle fuel tanks by parking under shade structures.",
+        "Minimize Engine Idling: Turn off car engines promptly instead of idling in drive-thrus or parking lots.",
+        "Launch Ozone Action Alerts: Organize community notifications warning residents to limit afternoon chemical use.",
+        "Promote Car-Free Days: Coordinate workplace or neighborhood carpooling events on high-heat sunny days.",
+        "Advocate for Clean Energy Tariffs: Encourage local utility providers to expand solar and wind power adoption."
+    ],
+    "Dangerous (71+ ppb)": [
+        "Stay Indoors During Peak Sun: Remain inside air-conditioned spaces during peak afternoon photochemical hours.",
+        "Avoid Outdoor Exercise: Postpone strenuous outdoor workouts to prevent severe lung and throat irritation.",
+        "Seal and Filter Indoor Air: Run air conditioning with clean filters to keep reactive outdoor air managed.",
+        "Eliminate Non-Essential Driving: Halt discretionary vehicle trips to immediately reduce ozone precursor emissions.",
+        "Avoid Fuel-Burning Activities: Refrain from using gas-powered lawn equipment, generators, or barbecues.",
+        "Use Public Transit Exclusively: Avoid adding individual tailpipe emissions during severe smog alerts.",
+        "Monitor Sensitive Individuals: Check on elderly neighbors or family members with asthma during high ozone spikes.",
+        "Establish Municipal Smog Emergency Protocols: Coordinate city-wide restrictions on high-emission industrial operations.",
+        "Enforce Temporary Traffic Reductions: Partner with local authorities to restrict heavy commercial vehicle loops.",
+        "Open Cooling and Air-Filtered Centers: Provide public shelters for community members lacking air conditioning."
+    ]
+}

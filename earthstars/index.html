@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Earthstars · San Francisco</title>
+  <meta name="description" content="Live climate conditions for San Francisco, every community garden on one map, and what you can do today.">
+  <meta name="theme-color" content="#050914">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23070d1f'/%3E%3Cpath d='M16 4 L17.4 14.6 L28 16 L17.4 17.4 L16 28 L14.6 17.4 L4 16 L14.6 14.6 Z' fill='%235be37d'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M16 4 L17.4 14.6 L28 16 L17.4 17.4 L16 28 L14.6 17.4 L4 16 L14.6 14.6 Z"/></svg>
+      <span>Earthstars</span>
+    </div>
+    <span class="place">San Francisco</span>
+    <span class="status" id="status" role="status"><i></i> Connecting…</span>
+  </header>
+
+  <main class="page">
+    <section class="intro">
+      <p class="eyebrow">Live · 37.77° N, 122.42° W</p>
+      <h1>Climate action in <span>San Francisco</span></h1>
+      <p class="lede">Today's real conditions, every community garden in the city, and what you can do to help, based on the weather and air right now.</p>
+    </section>
+
+    <section class="conditions" id="conditions" aria-label="Current conditions"></section>
+
+    <section class="workspace">
+      <div class="map-card">
+        <div id="map" role="region" aria-label="Map of San Francisco community gardens and air monitors"></div>
+        <div class="legend" aria-hidden="true">
+          <span><i class="lg-star"></i> community garden</span>
+          <span><i class="lg-aqi"></i> air monitor (AQI)</span>
+        </div>
+      </div>
+
+      <aside class="side">
+        <section class="card garden-detail" id="garden" hidden></section>
+        <section class="card">
+          <h2>What you can do today</h2>
+          <p class="muted small" id="suggest-basis">Waiting for today's conditions…</p>
+          <div id="suggestions"></div>
+        </section>
+        <section class="card">
+          <h2>Community gardens <span class="count" id="garden-count"></span></h2>
+          <p class="muted small" id="garden-source"></p>
+          <ul class="garden-list" id="garden-list"></ul>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <footer class="foot">
+    Data: <a href="https://openweathermap.org/" target="_blank" rel="noopener noreferrer">OpenWeather</a> ·
+    <a href="https://aqicn.org/" target="_blank" rel="noopener noreferrer">World Air Quality Index</a> ·
+    <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap contributors</a> ·
+    Map tiles © Esri
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

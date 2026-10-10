@@ -1,0 +1,38 @@
+{
+    "Safe (0 to 53 ppb)": [
+        "Service Car Engines Regularly: Keep ignition and fuel injection systems clean to minimize nitrogen oxide exhaust.",
+        "Choose Fuel-Efficient Transport: Opt for hybrid or electric vehicles when upgrading personal transportation.",
+        "Use Range Hoods Consistently: Always turn on kitchen ventilation fans when cooking with gas burners.",
+        "Support Active Mobility: Walk or bike for local errands to avoid cold-starting fossil-fuel engines.",
+        "Optimize Home Heating: Maintain efficient boiler and furnace settings to reduce fossil-fuel combustion volume.",
+        "Plant Highway Buffer Trees: Grow dense evergreen shrubs near roadways to absorb localized gaseous emissions.",
+        "Limit Unnecessary Driving: Combine weekly trips into streamlined travel loops.",
+        "Organize Clean Commute Campaigns: Encourage workplace carpooling and transit pass programs.",
+        "Advocate for Electric Transit Fleets: Support municipal investments in zero-emission electric buses.",
+        "Participate in Urban Planning Reviews: Support zoning policies that buffer residential areas from heavy freight corridors."
+    ],
+    "Moderate (54 to 100 ppb)": [
+        "Carpool During Rush Hours: Share rides with coworkers to reduce total vehicle density on congested commuting routes.",
+        "Avoid Heavy Traffic Corridors: Choose alternate walking or cycling paths away from major truck freight routes.",
+        "Switch to Induction Cooking: Minimize indoor gas stove usage during periods of elevated regional smog.",
+        "Set Vehicle Ventilation to Recirculate: Prevent outside exhaust fumes from entering your car cabin in traffic jams.",
+        "Delay Non-Essential Commutes: Shift flexible work tasks outside peak morning and evening rush hours.",
+        "Maintain Clean Air Filters: Ensure home HVAC and vehicle cabin air filters are fresh and well-maintained.",
+        "Avoid Roadside Exercise: Move jogging and cycling routes away from busy urban streets and highways.",
+        "Establish School No-Idling Zones: Organize parent-teacher groups to ban engine idling during student drop-off windows.",
+        "Promote Flexible Work Hours: Encourage employers to offer staggered start times to flatten rush-hour traffic spikes.",
+        "Advocate for Truck Route Restrictions: Petition city councils to restrict heavy diesel freight traffic during peak smog hours."
+    ],
+    "Dangerous (101+ ppb)": [
+        "Postpone All Discretionary Driving: Stay off the roads during peak congestion periods to avoid severe exposure.",
+        "Seal Homes Against Traffic Exhaust: Keep windows closed tight if living adjacent to major highways or industrial plants.",
+        "Wear N95/P100 Masks Outdoors: Protect airways from heavy combustion particulate and gas mixes if going outside.",
+        "Run Indoor Air Filtration: Keep HEPA and carbon filters running continuously in primary living spaces.",
+        "Avoid Outdoor Physical Exertion: Prevent deep lung strain by cancelling all outdoor sports and physical labor.",
+        "Use Recirculation Mode Exclusively: Lock vehicle climate controls to internal air recirculation when commuting.",
+        "Stay Away from Industrial Zones: Avoid travel near power plants, refineries, and heavy freight depots.",
+        "Issue Emergency Traffic Advisories: Coordinate with local agencies to restrict non-essential commercial traffic.",
+        "Implement School Recess Restrictions: Mandate indoor-only breaks and activities for all local schools.",
+        "Deploy Mobile Air Quality Monitoring: Organize community health checks near major pollution choke points."
+    ]
+}

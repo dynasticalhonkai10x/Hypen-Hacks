@@ -1,0 +1,38 @@
+{
+    "Air Quality 0 to 50": [
+        "Switch to Active Mobility: Bike or walk for short trips (under 2 miles) instead of driving.",
+        "Conduct Regular Vehicle Maintenance: Keep engine filters clean and tires properly inflated to maintain optimal fuel efficiency and minimize exhaust.",
+        "Use Zero-VOC Paints & Cleaners: Opt for low/no-volatile organic compound products for household upkeep to avoid chemical emissions.",
+        "Transition Lawn Care to Electric: Replace gas-powered lawnmowers and leaf blowers with battery-electric alternatives.",
+        "Optimize Home Energy Efficiency: Seal drafty doors/windows and switch to LED lighting to lower power plant demand.",
+        "Practice Smart Fireplace Usage: Avoid burning wood or trash at home, choosing cleaner heating methods where possible.",
+        "Plant Native Trees & Shrubs: Grow native flora around your living space to act as natural carbon sinks and air filters.",
+        "Organize a Neighborhood Carpool Network: Build a community app or roster to share rides for school drop-offs and commutes.",
+        "Coordinate Community Tree Planting Events: Partner with local urban forestry programs to expand street canopies and green spaces.",
+        "Establish School/Workplace \"No-Idle\" Zones: Launch a community campaign to ban idling engines outside school pick-up spots and offices."
+    ],
+    "Air Quality 51 to 100": [
+        "Combine Daily Errands: Group multiple errands into a single trip to minimize cold-engine driving cycles.",
+        "Use Public Transportation: Choose buses, light rail, or trains over personal vehicle driving during peak rush hours.",
+        "Avoid High-VOC Products on Sunny Days: Refrain from painting, solvent use, or applying lawn chemicals on warm, stagnant days when ozone forms easily.",
+        "Reschedule Lawn Mowing to Evening: Operate gas equipment in the cooler evening hours to reduce daylight ground-level ozone formation.",
+        "Conserve Indoor Energy: Lower air conditioning or heating usage by a few degrees during peak demand hours.",
+        "Consolidate Online Purchases: Minimize delivery vehicle trips by choosing combined shipping dates for packages.",
+        "Maintain Home HVAC Filters: Install MERV 11+ or HEPA filters in furnace/HVAC systems to catch rising ambient particulate matter.",
+        "Launch \"Bike-to-Work / Car-Free Day\" Campaigns: Organize city or office-wide events that incentivize non-motorized commuting.",
+        "Advocate for Clean Energy Tariffs: Group with local neighborhood associations to request community solar programs from local utilities.",
+        "Run Anti-Burn Public Awareness Drives: Organize local outreach reminding residents not to burn agricultural debris or yard waste on moderate-risk days."
+    ],
+    "Air Quality 101+": [
+        "Set Vehicle HVAC to Recirculate Air: Prevent polluted outside air from entering your vehicle cabin while driving.",
+        "Seal Doors and Windows: Keep home doors and windows closed tight and seal gaps with weatherstripping.",
+        "Run HEPA Air Purifiers Indoors: Keep high-efficiency particulate air purifiers operating in primary living spaces.",
+        "Postpone Outdoor Exertion: Move workouts indoors or reschedule heavy physical labor to prevent inhaling deep particulates.",
+        "Wear N95/P100 Respirators: Wear a properly fitted N95 mask if you must go outdoors during high particulate matter ($\text{PM}_{2.5}$) events.",
+        "Avoid Indoor Smoke Sources: Do not burn candles, incense, or use gas stoves without exhaust fans during poor air quality days.",
+        "Avoid Driving Unless Necessary: Delay non-essential driving entirely to avoid adding to regional emergency pollution levels.",
+        "Create Community Clean Air Shelters: Coordinate with local centers, libraries, or gyms to establish public indoor spaces equipped with heavy-duty air filtration.",
+        "Distribute N95 Masks to Vulnerable Populations: Partner with non-profits to supply masks and air filters to unhoused community members and low-income seniors.",
+        "Organize Emergency Remote Work / School Directives: Coalition with local business boards and school districts to trigger work-from-home days during extreme smog or wildfire smoke advisories."
+    ]
+}
