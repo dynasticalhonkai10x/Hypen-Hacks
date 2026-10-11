@@ -1,4 +1,5 @@
 /* Earthstars · San Francisco: live climate conditions, every community garden on one map, and what to do today.
+ * All data comes from the backend (main.py): OpenWeather, WAQI and OpenStreetMap. Nothing here is invented. */
 (() => {
   // Served by the backend (cloud or local uvicorn): call that same origin. Opened as a file: use a local backend.
   const SERVED_BY_BACKEND = /^https?:$/.test(window.location.protocol);
